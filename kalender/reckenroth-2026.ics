@@ -10,7 +10,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -23,7 +23,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -36,7 +36,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -49,7 +49,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -62,7 +62,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -75,7 +75,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -88,7 +88,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -101,7 +101,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -114,7 +114,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -127,7 +127,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -140,7 +140,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -153,7 +153,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -166,7 +166,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -179,7 +179,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -192,7 +192,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -205,7 +205,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -218,7 +218,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -231,7 +231,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -244,7 +244,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -257,7 +257,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -270,7 +270,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -283,7 +283,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -296,7 +296,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -309,7 +309,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -322,7 +322,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -335,7 +335,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Restmüll – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -348,7 +348,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260107
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -361,7 +361,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -374,7 +374,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -387,7 +387,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260330
 DTEND;VALUE=DATE:20260331
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -400,7 +400,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -413,7 +413,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -426,7 +426,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -439,7 +439,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -452,7 +452,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -465,7 +465,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -478,7 +478,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -491,7 +491,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -504,7 +504,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Altpapier – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -517,7 +517,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -530,7 +530,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -543,7 +543,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -556,7 +556,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260420
 DTEND;VALUE=DATE:20260421
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -569,7 +569,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -582,7 +582,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -595,7 +595,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -608,7 +608,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -621,7 +621,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -634,7 +634,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -647,7 +647,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -660,7 +660,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -673,7 +673,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Gelbe Tonne – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -686,7 +686,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -699,7 +699,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -712,7 +712,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260131
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -725,7 +725,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -738,7 +738,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -751,7 +751,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -764,7 +764,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -777,7 +777,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -790,7 +790,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -803,7 +803,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -816,7 +816,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -829,7 +829,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -842,7 +842,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -855,7 +855,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -868,7 +868,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -881,7 +881,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -894,7 +894,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -907,7 +907,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -920,7 +920,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -933,7 +933,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -946,7 +946,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -959,7 +959,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -972,7 +972,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -985,7 +985,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -998,7 +998,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -1011,7 +1011,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Bioabfall – Reckenroth
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall

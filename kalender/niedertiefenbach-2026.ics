@@ -10,7 +10,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -23,7 +23,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -36,7 +36,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -49,7 +49,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -62,7 +62,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -75,7 +75,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -88,7 +88,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -101,7 +101,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -114,7 +114,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -127,7 +127,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -140,7 +140,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -153,7 +153,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -166,7 +166,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -179,7 +179,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -192,7 +192,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -205,7 +205,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -218,7 +218,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -231,7 +231,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -244,7 +244,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -257,7 +257,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -270,7 +270,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -283,7 +283,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -296,7 +296,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -309,7 +309,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -322,7 +322,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -335,7 +335,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Restmüll – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Restmüll
@@ -348,7 +348,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -361,7 +361,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -374,7 +374,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -387,7 +387,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -400,7 +400,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -413,7 +413,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -426,7 +426,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -439,7 +439,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -452,7 +452,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -465,7 +465,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -478,7 +478,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -491,7 +491,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -504,7 +504,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Altpapier – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Altpapier
@@ -517,7 +517,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260116
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -530,7 +530,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260213
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -543,7 +543,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -556,7 +556,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -569,7 +569,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -582,7 +582,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -595,7 +595,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -608,7 +608,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -621,7 +621,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -634,7 +634,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -647,7 +647,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -660,7 +660,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -673,7 +673,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Gelbe Tonne – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Gelbe Tonne
@@ -686,7 +686,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -699,7 +699,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260121
 DTEND;VALUE=DATE:20260122
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -712,7 +712,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -725,7 +725,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -738,7 +738,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -751,7 +751,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -764,7 +764,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -777,7 +777,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -790,7 +790,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -803,7 +803,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -816,7 +816,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -829,7 +829,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -842,7 +842,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -855,7 +855,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -868,7 +868,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -881,7 +881,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -894,7 +894,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -907,7 +907,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -920,7 +920,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -933,7 +933,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -946,7 +946,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -959,7 +959,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -972,7 +972,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -985,7 +985,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -998,7 +998,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
@@ -1011,7 +1011,7 @@ DTSTAMP:20261118T120000Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Bioabfall – Niedertiefenbach
-DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+DESCRIPTION:Bestätigt im Ortskalender des Rhein-Lahn-Kreises (2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Morgen: Bioabfall
