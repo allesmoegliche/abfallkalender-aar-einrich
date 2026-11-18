@@ -1,0 +1,1021 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abfallkalender Aar-Einrich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abfallkalender Biebrich 2026
+BEGIN:VEVENT
+UID:biebrich-restmull-20260106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260120@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260203@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260217@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260303@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260317@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260330@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260414@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260428@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260512@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260527@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260609@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260623@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260707@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260721@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260804@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260818@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260901@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260915@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20260929@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261013@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261027@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261110@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261124@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261208@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-restmull-20261221@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Restmüll – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260203@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260303@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260330@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260428@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260527@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260623@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260721@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260818@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20260915@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20261013@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20261110@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-altpapier-20261208@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Altpapier – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260126@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260223@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260323@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260420@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260518@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260615@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260713@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260810@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20260907@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20261005@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20261102@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20261130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-gelbetonne-20261228@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Gelbe Tonne – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260113@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260127@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260210@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260224@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260310@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260324@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260408@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260421@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260505@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260519@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260602@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260616@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260630@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260714@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260728@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260811@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260825@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260908@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20260922@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261006@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261020@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261103@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261117@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261201@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261215@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:biebrich-bioabfall-20261229@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Bioabfall – Biebrich
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,335 @@
+{
+  "abweichungen_wochentag": [
+    {
+      "art": "Restmüll",
+      "gruppe": 1,
+      "datum": "2026-04-02",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 1,
+      "datum": "2026-05-02",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 1,
+      "datum": "2026-05-16",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 1,
+      "datum": "2026-05-30",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 1,
+      "datum": "2026-12-24",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 2,
+      "datum": "2026-03-30",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Montag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 2,
+      "datum": "2026-05-27",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Mittwoch"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 2,
+      "datum": "2026-12-21",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Montag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 3,
+      "datum": "2026-03-28",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 3,
+      "datum": "2026-05-26",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 3,
+      "datum": "2026-12-19",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 4,
+      "datum": "2026-04-09",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 5,
+      "datum": "2026-04-07",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 6,
+      "datum": "2026-01-03",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 6,
+      "datum": "2026-04-11",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Restmüll",
+      "gruppe": 6,
+      "datum": "2026-06-06",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 1,
+      "datum": "2026-04-09",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 2,
+      "datum": "2026-03-30",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Montag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 2,
+      "datum": "2026-05-27",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Mittwoch"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 3,
+      "datum": "2026-04-08",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Mittwoch"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 4,
+      "datum": "2026-12-21",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Montag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 6,
+      "datum": "2026-12-22",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 7,
+      "datum": "2026-05-16",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Altpapier",
+      "gruppe": 7,
+      "datum": "2026-12-24",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 2,
+      "datum": "2026-01-02",
+      "spaltenüberschrift": "Donnerstag",
+      "tatsächlicher_wochentag": "Freitag"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 3,
+      "datum": "2026-12-19",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 4,
+      "datum": "2026-05-15",
+      "spaltenüberschrift": "Donnerstag",
+      "tatsächlicher_wochentag": "Freitag"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 4,
+      "datum": "2026-12-23",
+      "spaltenüberschrift": "Donnerstag",
+      "tatsächlicher_wochentag": "Mittwoch"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 5,
+      "datum": "2026-04-10",
+      "spaltenüberschrift": "Donnerstag",
+      "tatsächlicher_wochentag": "Freitag"
+    },
+    {
+      "art": "Gelbe Tonne",
+      "gruppe": 5,
+      "datum": "2026-06-05",
+      "spaltenüberschrift": "Donnerstag",
+      "tatsächlicher_wochentag": "Freitag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 1,
+      "datum": "2026-01-03",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 1,
+      "datum": "2026-04-11",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 1,
+      "datum": "2026-06-06",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 2,
+      "datum": "2026-04-08",
+      "spaltenüberschrift": "Dienstag",
+      "tatsächlicher_wochentag": "Mittwoch"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 3,
+      "datum": "2026-04-07",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 4,
+      "datum": "2026-03-31",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 4,
+      "datum": "2026-05-28",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 4,
+      "datum": "2026-12-22",
+      "spaltenüberschrift": "Mittwoch",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 5,
+      "datum": "2026-03-28",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 5,
+      "datum": "2026-05-26",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Dienstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 5,
+      "datum": "2026-12-19",
+      "spaltenüberschrift": "Montag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-04-02",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Donnerstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-05-02",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-05-16",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-05-30",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-10-03",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Samstag"
+    },
+    {
+      "art": "Bioabfall",
+      "gruppe": 6,
+      "datum": "2026-12-24",
+      "spaltenüberschrift": "Freitag",
+      "tatsächlicher_wochentag": "Donnerstag"
+    }
+  ],
+  "anzahl": 47,
+  "hinweis": "Datumsangaben aus PDF unverändert; Wochentagsüberschriften sind nicht immer korrekt."
+}

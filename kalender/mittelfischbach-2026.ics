@@ -1,0 +1,1021 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abfallkalender Aar-Einrich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abfallkalender Mittelfischbach 2026
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260109@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260123@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260206@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260220@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260306@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260320@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260402@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260417@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260502@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260516@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260530@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260612@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260626@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260710@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260724@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260807@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260821@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260904@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20260918@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261002@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261016@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261030@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261113@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261127@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261211@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-restmull-20261224@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Restmüll – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260203@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260303@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260330@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260428@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260527@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260623@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260721@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260818@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20260915@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20261013@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20261110@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-altpapier-20261208@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Altpapier – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260115@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260212@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260312@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260410@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260507@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260605@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260702@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260730@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260827@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20260924@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20261022@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20261119@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-gelbetonne-20261217@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Gelbe Tonne – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260103@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260116@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260213@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260227@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260313@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260327@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260411@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260424@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260508@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260522@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260606@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260619@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260703@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260717@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260731@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260814@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260828@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260911@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20260925@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261009@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261023@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261120@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261204@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mittelfischbach-bioabfall-20261218@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Bioabfall – Mittelfischbach
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

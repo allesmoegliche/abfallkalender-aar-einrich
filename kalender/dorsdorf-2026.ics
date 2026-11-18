@@ -1,0 +1,1021 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abfallkalender Aar-Einrich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abfallkalender Dörsdorf 2026
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260114@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260128@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260211@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260225@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260311@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260325@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260409@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260422@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260506@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260520@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260603@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260617@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260701@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260715@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260729@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260812@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260826@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260909@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20260923@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261007@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261021@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261104@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261118@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261202@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261216@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-restmull-20261230@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Restmüll – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260203@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260303@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260330@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260428@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260527@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260623@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260721@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260818@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20260915@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20261013@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20261110@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-altpapier-20261208@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Altpapier – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260126@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260223@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260323@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260420@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260518@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260615@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260713@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260810@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20260907@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20261005@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20261102@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20261130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-gelbetonne-20261228@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Gelbe Tonne – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260107@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260121@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260204@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260218@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260304@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260318@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260331@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260415@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260429@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260513@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260528@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260610@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260624@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260708@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260722@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260805@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260819@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260902@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260916@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20260930@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261014@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261028@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261111@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261125@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261209@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dorsdorf-bioabfall-20261222@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Bioabfall – Dörsdorf
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

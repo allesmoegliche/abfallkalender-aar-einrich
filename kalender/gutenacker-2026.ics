@@ -1,0 +1,1034 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abfallkalender Aar-Einrich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abfallkalender Gutenacker 2026
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260103@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260116@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260213@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260227@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260313@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260327@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260411@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260424@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260508@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260522@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260606@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260619@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260703@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260717@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260731@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260814@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260828@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260911@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20260925@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261009@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261023@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261106@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261120@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261204@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-restmull-20261218@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Restmüll – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260126@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260223@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260323@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260420@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260518@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260615@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260713@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260810@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20260907@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20261005@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20261102@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20261130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-altpapier-20261228@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Altpapier – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260102@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260129@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260226@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260326@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260423@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260521@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260618@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260716@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260813@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20260910@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20261008@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20261105@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20261203@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-gelbetonne-20261231@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Gelbe Tonne – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260109@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260123@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260206@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260220@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260306@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260320@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260402@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260417@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260502@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260516@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260530@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260612@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260626@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260710@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260724@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260807@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260821@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260904@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20260918@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261003@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261016@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261030@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261113@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261127@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261211@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gutenacker-bioabfall-20261224@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Bioabfall – Gutenacker
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

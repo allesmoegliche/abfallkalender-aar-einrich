@@ -1,0 +1,1021 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abfallkalender Aar-Einrich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abfallkalender Oberneisen 2026
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260112@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260126@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260209@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260223@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260309@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260323@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260407@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260420@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260504@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260518@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260601@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260615@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260629@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260713@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260727@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260810@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260824@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260907@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20260921@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261005@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261019@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261102@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261116@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261130@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261214@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-restmull-20261228@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Restmüll – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Restmüll
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260120@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260217@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260317@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260414@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260512@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260609@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260707@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260804@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260901@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20260929@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20261027@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20261124@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-altpapier-20261221@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Altpapier – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Altpapier
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260119@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260216@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260316@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260413@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260511@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260608@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260706@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260803@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260831@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20260928@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20261026@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20261123@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-gelbetonne-20261219@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Gelbe Tonne – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Gelbe Tonne
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260105@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260119@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260202@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260216@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260302@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260316@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260328@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260413@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260427@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260511@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260526@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260608@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260622@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260706@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260720@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260803@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260817@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260831@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260914@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20260928@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261012@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261026@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261109@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261123@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261207@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:oberneisen-bioabfall-20261219@abfallkalender-aar-einrich
+DTSTAMP:20261118T120000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Bioabfall – Oberneisen
+DESCRIPTION:Termin laut Abfuhrkalender 2026. Angaben ohne Gewähr; bitte bei Abweichungen den Entsorger kontaktieren.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Bioabfall
+TRIGGER:-PT6H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
