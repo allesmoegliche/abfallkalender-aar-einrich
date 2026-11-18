@@ -1,335 +1,1922 @@
 {
+  "pruefstand": "2026-11-18",
+  "quellen": {
+    "tonnenabfuhr": {
+      "url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/abfallwirtschaft/abfuhrtermine-formulare-und-merkblaetter/vg-aar-einrich-abfuhrtermine-2026.pdf?cid=top",
+      "sha256": "2b6ba5625160d3f5f937a93522325ae9debe7ad04b153e2f0578a5b054d84f9f",
+      "projekt_pdf_bytegleich": true
+    },
+    "schadstoffmobil": {
+      "url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/abfallwirtschaft/abfuhrtermine-formulare-und-merkblaetter/schadstoffmobil-termine-2026.pdf?cid=toy",
+      "sha256": "1af44f1eefcf59cc460763f04aa6c26dbc6f9632397986355b8d18cfb1ee1b56"
+    }
+  },
+  "methode": "Verglichen wurde je Ort und Abfallart die vollständige Datumsmenge mit der zugehörigen Spalte der amtlichen VG-Übersicht. Seiten und Spalten sind ab 1 nummeriert. Die einzelnen bestätigten Termine stehen in termine-2026.json.",
+  "umfang": {
+    "orte": 32,
+    "ort_abfallart_paare": 128,
+    "bestätigte_tonnenabfuhrtermine": 2498
+  },
+  "vergleichsbasis_commit": "1e00d1a",
+  "vergleich_vor_aktualisierung": {
+    "übereinstimmungen": 2498,
+    "fehlte_im_projekt": 0,
+    "nur_im_projekt": 0
+  },
+  "orte": {
+    "Allendorf": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Berghausen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Berndroth": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Biebrich": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Bremberg": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Burgschwalbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Dörsdorf": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Ebertshausen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Eisighofen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Ergeshausen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Flacht": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 3,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 4,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 3,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Gutenacker": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 6,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 2,
+        "übereinstimmungen": 14,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 6,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Hahnstätten": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Herold": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Kaltenholzhausen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Katzenelnbogen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Klingelbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Kördorf": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 2,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Lohrheim": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Mittelfischbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Mudershausen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Netzbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 4,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Niederneisen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 4,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 4,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Niedertiefenbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 7,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Oberfischbach": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Oberneisen": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 4,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 5,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Reckenroth": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 2,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Rettert": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 7,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Roth": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 6,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 7,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 5,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 6,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Schiesheim": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Schönborn": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 6,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 2,
+        "übereinstimmungen": 14,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 4,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    },
+    "Zollhaus": {
+      "Restmüll": {
+        "seite": 1,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Altpapier": {
+        "seite": 2,
+        "spalte": 1,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Gelbe Tonne": {
+        "seite": 3,
+        "spalte": 3,
+        "übereinstimmungen": 13,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      },
+      "Bioabfall": {
+        "seite": 4,
+        "spalte": 1,
+        "übereinstimmungen": 26,
+        "fehlte_im_projekt": [],
+        "nur_im_projekt": []
+      }
+    }
+  },
   "abweichungen_wochentag": [
     {
       "art": "Restmüll",
-      "gruppe": 1,
+      "seite": 1,
+      "spalte": 1,
       "datum": "2026-04-02",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 1,
+      "seite": 1,
+      "spalte": 1,
       "datum": "2026-05-02",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 1,
+      "seite": 1,
+      "spalte": 1,
       "datum": "2026-05-16",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 1,
+      "seite": 1,
+      "spalte": 1,
       "datum": "2026-05-30",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 1,
+      "seite": 1,
+      "spalte": 1,
       "datum": "2026-12-24",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 2,
+      "seite": 1,
+      "spalte": 2,
       "datum": "2026-03-30",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Montag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 2,
+      "seite": 1,
+      "spalte": 2,
       "datum": "2026-05-27",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Mittwoch"
     },
     {
       "art": "Restmüll",
-      "gruppe": 2,
+      "seite": 1,
+      "spalte": 2,
       "datum": "2026-12-21",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Montag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 3,
+      "seite": 1,
+      "spalte": 3,
       "datum": "2026-03-28",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 3,
+      "seite": 1,
+      "spalte": 3,
       "datum": "2026-05-26",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 3,
+      "seite": 1,
+      "spalte": 3,
       "datum": "2026-12-19",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 4,
+      "seite": 1,
+      "spalte": 4,
       "datum": "2026-04-09",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 5,
+      "seite": 1,
+      "spalte": 5,
       "datum": "2026-04-07",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 6,
+      "seite": 1,
+      "spalte": 6,
       "datum": "2026-01-03",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 6,
+      "seite": 1,
+      "spalte": 6,
       "datum": "2026-04-11",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Restmüll",
-      "gruppe": 6,
+      "seite": 1,
+      "spalte": 6,
       "datum": "2026-06-06",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 1,
+      "seite": 2,
+      "spalte": 1,
       "datum": "2026-04-09",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 2,
+      "seite": 2,
+      "spalte": 2,
       "datum": "2026-03-30",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Montag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 2,
+      "seite": 2,
+      "spalte": 2,
       "datum": "2026-05-27",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Mittwoch"
     },
     {
       "art": "Altpapier",
-      "gruppe": 3,
+      "seite": 2,
+      "spalte": 3,
       "datum": "2026-04-08",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Mittwoch"
     },
     {
       "art": "Altpapier",
-      "gruppe": 4,
+      "seite": 2,
+      "spalte": 4,
       "datum": "2026-12-21",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Montag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 6,
+      "seite": 2,
+      "spalte": 6,
       "datum": "2026-12-22",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 7,
+      "seite": 2,
+      "spalte": 7,
       "datum": "2026-05-16",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Altpapier",
-      "gruppe": 7,
+      "seite": 2,
+      "spalte": 7,
       "datum": "2026-12-24",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 2,
+      "seite": 3,
+      "spalte": 2,
       "datum": "2026-01-02",
       "spaltenüberschrift": "Donnerstag",
       "tatsächlicher_wochentag": "Freitag"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 3,
+      "seite": 3,
+      "spalte": 3,
       "datum": "2026-12-19",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 4,
+      "seite": 3,
+      "spalte": 4,
       "datum": "2026-05-15",
       "spaltenüberschrift": "Donnerstag",
       "tatsächlicher_wochentag": "Freitag"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 4,
+      "seite": 3,
+      "spalte": 4,
       "datum": "2026-12-23",
       "spaltenüberschrift": "Donnerstag",
       "tatsächlicher_wochentag": "Mittwoch"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 5,
+      "seite": 3,
+      "spalte": 5,
       "datum": "2026-04-10",
       "spaltenüberschrift": "Donnerstag",
       "tatsächlicher_wochentag": "Freitag"
     },
     {
       "art": "Gelbe Tonne",
-      "gruppe": 5,
+      "seite": 3,
+      "spalte": 5,
       "datum": "2026-06-05",
       "spaltenüberschrift": "Donnerstag",
       "tatsächlicher_wochentag": "Freitag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 1,
+      "seite": 4,
+      "spalte": 1,
       "datum": "2026-01-03",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 1,
+      "seite": 4,
+      "spalte": 1,
       "datum": "2026-04-11",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 1,
+      "seite": 4,
+      "spalte": 1,
       "datum": "2026-06-06",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 2,
+      "seite": 4,
+      "spalte": 2,
       "datum": "2026-04-08",
       "spaltenüberschrift": "Dienstag",
       "tatsächlicher_wochentag": "Mittwoch"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 3,
+      "seite": 4,
+      "spalte": 3,
       "datum": "2026-04-07",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 4,
+      "seite": 4,
+      "spalte": 4,
       "datum": "2026-03-31",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 4,
+      "seite": 4,
+      "spalte": 4,
       "datum": "2026-05-28",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 4,
+      "seite": 4,
+      "spalte": 4,
       "datum": "2026-12-22",
       "spaltenüberschrift": "Mittwoch",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 5,
+      "seite": 4,
+      "spalte": 5,
       "datum": "2026-03-28",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 5,
+      "seite": 4,
+      "spalte": 5,
       "datum": "2026-05-26",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Dienstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 5,
+      "seite": 4,
+      "spalte": 5,
       "datum": "2026-12-19",
       "spaltenüberschrift": "Montag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-04-02",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Donnerstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-05-02",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-05-16",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-05-30",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-10-03",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Samstag"
     },
     {
       "art": "Bioabfall",
-      "gruppe": 6,
+      "seite": 4,
+      "spalte": 6,
       "datum": "2026-12-24",
       "spaltenüberschrift": "Freitag",
       "tatsächlicher_wochentag": "Donnerstag"
     }
   ],
   "anzahl": 47,
-  "hinweis": "Datumsangaben aus PDF unverändert; Wochentagsüberschriften sind nicht immer korrekt."
+  "hinweis": "Die Spaltenüberschrift nennt den regulären Wochentag. Für den Kalender gilt das in der amtlichen Tabelle gedruckte Datum.",
+  "schadstoffmobil": {
+    "hinweis": "Amtliche Abgabetermine aus einem separaten Fahrplan. Der bisherige Projektkalender umfasst vier Tonnenarten. Leere Listen bedeuten, dass im Fahrplan kein eigener Halt für den Ort ausgewiesen ist.",
+    "orte": {
+      "Allendorf": [
+        {
+          "datum": "2026-03-09",
+          "von": "15:10",
+          "bis": "15:30",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "15:10",
+          "bis": "15:30",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Berghausen": [
+        {
+          "datum": "2026-03-09",
+          "von": "11:30",
+          "bis": "11:50",
+          "standplatz": "Spielplatz, Im Weidmorgen",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "11:30",
+          "bis": "11:50",
+          "standplatz": "Spielplatz, Im Weidmorgen",
+          "seite": 1
+        }
+      ],
+      "Berndroth": [
+        {
+          "datum": "2026-03-09",
+          "von": "12:05",
+          "bis": "12:25",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "12:05",
+          "bis": "12:25",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Biebrich": [
+        {
+          "datum": "2026-05-20",
+          "von": "15:50",
+          "bis": "16:10",
+          "standplatz": "Gemeinde-Gerätehaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "15:50",
+          "bis": "16:10",
+          "standplatz": "Gemeinde-Gerätehaus",
+          "seite": 1
+        }
+      ],
+      "Bremberg": [
+        {
+          "datum": "2026-05-20",
+          "von": "13:50",
+          "bis": "14:10",
+          "standplatz": "Rathaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "13:50",
+          "bis": "14:10",
+          "standplatz": "Rathaus",
+          "seite": 1
+        }
+      ],
+      "Burgschwalbach": [
+        {
+          "datum": "2026-05-22",
+          "von": "14:25",
+          "bis": "14:45",
+          "standplatz": "Burgblickhalle",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "14:25",
+          "bis": "14:45",
+          "standplatz": "Burgblickhalle",
+          "seite": 1
+        }
+      ],
+      "Dörsdorf": [
+        {
+          "datum": "2026-03-09",
+          "von": "11:00",
+          "bis": "11:20",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "11:00",
+          "bis": "11:20",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Ebertshausen": [
+        {
+          "datum": "2026-05-22",
+          "von": "11:10",
+          "bis": "11:30",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "11:10",
+          "bis": "11:30",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Eisighofen": [
+        {
+          "datum": "2026-03-09",
+          "von": "10:30",
+          "bis": "10:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "10:30",
+          "bis": "10:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Ergeshausen": [
+        {
+          "datum": "2026-05-20",
+          "von": "15:20",
+          "bis": "15:40",
+          "standplatz": "Feuerwehrgerätehaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "15:20",
+          "bis": "15:40",
+          "standplatz": "Feuerwehrgerätehaus",
+          "seite": 1
+        }
+      ],
+      "Flacht": [
+        {
+          "datum": "2026-05-20",
+          "von": "09:30",
+          "bis": "09:50",
+          "standplatz": "Dorfgemeinschaftshaus (alte Schule)",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "09:30",
+          "bis": "09:50",
+          "standplatz": "Dorfgemeinschaftshaus (alte Schule)",
+          "seite": 1
+        }
+      ],
+      "Gutenacker": [
+        {
+          "datum": "2026-05-20",
+          "von": "13:20",
+          "bis": "13:40",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "13:20",
+          "bis": "13:40",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Hahnstätten": [
+        {
+          "datum": "2026-03-28",
+          "von": "10:30",
+          "bis": "11:30",
+          "standplatz": "Schul-/Sportzentrum",
+          "seite": 1
+        },
+        {
+          "datum": "2026-05-22",
+          "von": "15:35",
+          "bis": "16:20",
+          "standplatz": "Schul-/Sportzentrum",
+          "seite": 1
+        },
+        {
+          "datum": "2026-07-11",
+          "von": "10:30",
+          "bis": "11:30",
+          "standplatz": "Schul-/Sportzentrum",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "15:35",
+          "bis": "16:20",
+          "standplatz": "Schul-/Sportzentrum",
+          "seite": 1
+        }
+      ],
+      "Herold": [
+        {
+          "datum": "2026-05-20",
+          "von": "14:50",
+          "bis": "15:10",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "14:50",
+          "bis": "15:10",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Kaltenholzhausen": [
+        {
+          "datum": "2026-05-22",
+          "von": "15:05",
+          "bis": "15:25",
+          "standplatz": "Rathaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "15:05",
+          "bis": "15:25",
+          "standplatz": "Rathaus",
+          "seite": 1
+        }
+      ],
+      "Katzenelnbogen": [
+        {
+          "datum": "2026-03-09",
+          "von": "16:10",
+          "bis": "17:00",
+          "standplatz": "Marktplatz, am Wohnmobilstellplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-03-28",
+          "von": "09:00",
+          "bis": "10:00",
+          "standplatz": "Marktplatz, am Wohnmobilstellplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-07-11",
+          "von": "09:00",
+          "bis": "10:00",
+          "standplatz": "Marktplatz, am Wohnmobilstellplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "16:10",
+          "bis": "17:00",
+          "standplatz": "Marktplatz, am Wohnmobilstellplatz",
+          "seite": 1
+        }
+      ],
+      "Klingelbach": [
+        {
+          "datum": "2026-03-09",
+          "von": "15:40",
+          "bis": "16:00",
+          "standplatz": "Gewerbegebiet, Wendehammer",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "15:40",
+          "bis": "16:00",
+          "standplatz": "Gewerbegebiet, Wendehammer",
+          "seite": 1
+        }
+      ],
+      "Kördorf": [
+        {
+          "datum": "2026-05-20",
+          "von": "14:20",
+          "bis": "14:40",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "14:20",
+          "bis": "14:40",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Lohrheim": [
+        {
+          "datum": "2026-05-20",
+          "von": "10:30",
+          "bis": "10:50",
+          "standplatz": "Dorfgemeinschaftshaus, an der Mehrzweckhalle 7",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "10:30",
+          "bis": "10:50",
+          "standplatz": "Dorfgemeinschaftshaus, an der Mehrzweckhalle 7",
+          "seite": 1
+        }
+      ],
+      "Mittelfischbach": [
+        {
+          "datum": "2026-03-09",
+          "von": "14:30",
+          "bis": "14:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "14:30",
+          "bis": "14:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Mudershausen": [
+        {
+          "datum": "2026-05-22",
+          "von": "11:50",
+          "bis": "12:10",
+          "standplatz": "Rathausplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "11:50",
+          "bis": "12:10",
+          "standplatz": "Rathausplatz",
+          "seite": 1
+        }
+      ],
+      "Netzbach": [
+        {
+          "datum": "2026-05-20",
+          "von": "11:30",
+          "bis": "11:50",
+          "standplatz": "Hubertusplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "11:30",
+          "bis": "11:50",
+          "standplatz": "Hubertusplatz",
+          "seite": 1
+        }
+      ],
+      "Niederneisen": [
+        {
+          "datum": "2026-05-20",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Bolzplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Bolzplatz",
+          "seite": 1
+        }
+      ],
+      "Niedertiefenbach": [
+        {
+          "datum": "2026-04-22",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-10-21",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Oberfischbach": [
+        {
+          "datum": "2026-03-09",
+          "von": "14:00",
+          "bis": "14:20",
+          "standplatz": "Bushaltestelle, Ecke Rheinstraße / Kirchweg",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "14:00",
+          "bis": "14:20",
+          "standplatz": "Bushaltestelle, Ecke Rheinstraße / Kirchweg",
+          "seite": 1
+        }
+      ],
+      "Oberneisen": [
+        {
+          "datum": "2026-05-20",
+          "von": "11:00",
+          "bis": "11:20",
+          "standplatz": "Turnhalle",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-11",
+          "von": "11:00",
+          "bis": "11:20",
+          "standplatz": "Turnhalle",
+          "seite": 1
+        }
+      ],
+      "Reckenroth": [
+        {
+          "datum": "2026-03-09",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Dorfgemeinschaftshaus (hinten)",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "10:00",
+          "bis": "10:20",
+          "standplatz": "Dorfgemeinschaftshaus (hinten)",
+          "seite": 1
+        }
+      ],
+      "Rettert": [
+        {
+          "datum": "2026-03-09",
+          "von": "12:35",
+          "bis": "12:55",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-09-14",
+          "von": "12:35",
+          "bis": "12:55",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Roth": [
+        {
+          "datum": "2026-04-22",
+          "von": "09:30",
+          "bis": "09:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        },
+        {
+          "datum": "2026-10-21",
+          "von": "09:30",
+          "bis": "09:50",
+          "standplatz": "Dorfgemeinschaftshaus",
+          "seite": 1
+        }
+      ],
+      "Schiesheim": [
+        {
+          "datum": "2026-05-22",
+          "von": "13:25",
+          "bis": "13:45",
+          "standplatz": "Kinderspielplatz/Dorfplatz",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "13:25",
+          "bis": "13:45",
+          "standplatz": "Kinderspielplatz/Dorfplatz",
+          "seite": 1
+        }
+      ],
+      "Schönborn": [
+        {
+          "datum": "2026-05-22",
+          "von": "10:40",
+          "bis": "11:00",
+          "standplatz": "Bushaltestelle, Hauptstraße",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "10:40",
+          "bis": "11:00",
+          "standplatz": "Bushaltestelle, Hauptstraße",
+          "seite": 1
+        }
+      ],
+      "Zollhaus": [
+        {
+          "datum": "2026-05-22",
+          "von": "13:55",
+          "bis": "14:15",
+          "standplatz": "Gewerbestraße",
+          "seite": 1
+        },
+        {
+          "datum": "2026-11-13",
+          "von": "13:55",
+          "bis": "14:15",
+          "standplatz": "Gewerbestraße",
+          "seite": 1
+        }
+      ]
+    }
+  },
+  "abholung_auf_anmeldung": {
+    "arten": [
+      "Sperrabfall",
+      "Grünschnitt",
+      "Elektro- und Metallschrott"
+    ],
+    "hinweis": "Individuelle Terminvergabe nach Anmeldung.",
+    "quelle": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/abfallwirtschaft/"
+  }
 }
